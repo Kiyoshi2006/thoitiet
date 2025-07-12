@@ -7,5 +7,5 @@ bash <(wget --no-check-certificate -qO- ${GH_PROXY}https://raw.githubusercontent
 ```
 ### Chỉ cần coppy và dán vào termux loli
 ```
-sh -c "$(wget --no-check-certificate -qO- https://raw.githubusercontent.com/Thaomtam/thoitiet/refs/heads/main/start.sh)"
+sh -c "$(wget --no-check-certificate -qO- https://raw.githubusercontent.com/Kiyoshi2006/thoitiet/refs/heads/main/start.sh)"
 ```
